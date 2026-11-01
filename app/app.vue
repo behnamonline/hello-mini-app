@@ -8,7 +8,7 @@
 
     <!-- هدر اپلیکیشن -->
     <header class="app-header">
-      <h1 class="app-title">BEHNAM</h1>
+      <h1 class="app-title">GORBE</h1>
     </header>
 
     <!-- نویگیشن با دکمه‌های شیشه‌ای و نئونی -->
