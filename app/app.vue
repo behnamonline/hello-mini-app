@@ -16,6 +16,11 @@
       <NuxtLink to="/" class="neon-btn purple-btn">
         <span>Home</span>
       </NuxtLink>
+
+            <NuxtLink to="/message" class="neon-btn green-btn">
+        <span>message</span>
+      </NuxtLink>
+
       <NuxtLink to="/behnam" class="neon-btn green-btn">
         <span>Behnam</span>
       </NuxtLink>
