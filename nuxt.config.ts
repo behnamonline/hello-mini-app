@@ -3,6 +3,13 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+  app: {
+    head: {
+      script: [
+        { src: "https://telegram.org/js/telegram-web-app.js?64" }
+      ]
+    }
+  },
   nitro: {
     experimental: {
       database: true

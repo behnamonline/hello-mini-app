@@ -24,6 +24,10 @@
       <NuxtLink to="/behnam" class="neon-btn green-btn">
         <span>Behnam</span>
       </NuxtLink>
+
+            <NuxtLink to="/user" class="neon-btn green-btn">
+        <span>user</span>
+      </NuxtLink>
     </nav>
 
     <!-- محتوای صفحات -->
